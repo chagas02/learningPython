@@ -7,4 +7,5 @@ def forca():
 
 
     Print("Em desenvolvimento")
+    nome = int(input("Digite seu Nome: "))
     print("Fim do jogo")
