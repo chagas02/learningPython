@@ -6,5 +6,5 @@ def forca():
     print("*********************************")
 
 
-
+    Print("Em desenvolvimento")
     print("Fim do jogo")
