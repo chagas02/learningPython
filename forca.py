@@ -35,8 +35,6 @@ def jogar():
 
     print("Fim do jogo")
 
-
-
 def imprime_mensagem_abertura():
     print("*********************************")
     print("***Bem vindo ao jogo da Forca!***")
